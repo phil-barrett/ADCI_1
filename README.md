@@ -1,4 +1,4 @@
-#ADCI_1
+# ADCI_1
 
 ADCI_1 is an isolated Analog to Digital converter for CNC Plasma CNC designs.  It uses the standard grblHAL I2C interface available on a number of breakout boards.
 
