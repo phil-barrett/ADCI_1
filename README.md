@@ -1,6 +1,6 @@
-# ADCI_1
+# THCI ADCI_1
 
-ADCI_1 is an isolated Analog to Digital converter for CNC Plasma CNC designs.  It uses the standard grblHAL I2C interface available on a number of breakout boards.
+THC ADCI_1 is an isolated Analog to Digital converter for CNC Plasma CNC designs to implement Torch Height Control (THC) in grblHAL.  It uses the standard grblHAL I2C interface available on a number of breakout boards.
 
 Technical specifications.
 
