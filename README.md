@@ -27,4 +27,4 @@ R_value = 10000 * ( Arc_V / 2.5) - 1)
 >
 Where Arc_V is the arc voltage value output by the Plasma Cutter.
 ###
-The resistor power rating should be 1/2W.
+The resistor power rating should be 1/2W. Use the closest 1% standard resistor vlaue.
