@@ -23,8 +23,10 @@ ADCI_1 uses a voltage divider to drop the Plasma Cutter's Arc Voltage output to 
 |10V|14.1K|1/2W|
 |5V|4.7K|1/2W|
 
-R_value = 10000 * ( Arc_V / 2.5) - 1)
->
-Where Arc_V is the arc voltage value output by the Plasma Cutter.
+$$
+Rvalue = 1000 * ( \frac {Varc}{2.5} - 1)
+$$
+
+Where Varc is the arc voltage value output by the Plasma Cutter.
 ###
 The resistor power rating should be 1/2W. Use the closest 1% standard resistor vlaue.
