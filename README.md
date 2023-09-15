@@ -25,7 +25,6 @@ ADCI_1 uses a voltage divider to drop the Plasma Cutter's Arc Voltage output to 
 
 $Rvalue = 4700 * ( \frac {Varc}{2.5} - 1)$
 
-
 Where 
 * $Rvalue$ is the size of the resistor in ohms ($\Omega$)
 * $Varc$ is the arc voltage value output by the Plasma Cutter.
