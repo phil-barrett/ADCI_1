@@ -1,5 +1,8 @@
 # THC ADCI_1
 
+![adc_i2c_iso](https://github.com/phil-barrett/ADCI_1/assets/16570958/a7d6b86e-0735-4bbd-a437-44589c8b0586)
+
+
 THC ADCI_1 is an isolated Analog to Digital converter for CNC Plasma CNC designs to implement Torch Height Control (THC) in grblHAL.  It uses the standard grblHAL I2C interface available on a number of breakout boards.
 
 Technical specifications.
@@ -13,7 +16,7 @@ Technical specifications.
   - User supplied upper divider resistor (see below).
 
 ## User Supplied Resistor
-ADCI_1 uses a voltage divider to drop the Plasma Cutter's Arc Voltage output to a usable level.  This uses 2 resistors.  One, the lower resistor, is on the ADCI board and the other, the upper resistor, must be supplied by the user.  This allows support any Arc Voltage value. The user supplied resistor should be in series with the signal cable running from the Plasma Cutter to the ADCI board. It should be outside the electronics box where the ADCI is mounted so that high voltage does not enter.  To find the right value of the user supplied resistor, refer to the following table or use the formula after the table.
+ADCI_1 uses a voltage divider to drop the Plasma Cutter's Arc Voltage output to a usable level.  This uses 2 resistors.  One, the lower resistor, is on the ADCI board and the other, the upper resistor, must be supplied by the user.  This allows support for any Arc Voltage value. The user supplied resistor should be in series with the signal cable running from the Plasma Cutter to the ADCI board. It should be outside the electronics box where the ADCI is mounted so that high voltage does not enter.  To find the right value of the user supplied resistor, refer to the following table or use the formula after the table.
 
 | $Varc$ | $Rvalue$ | Resistor Wattage |
 |---|---|---|
