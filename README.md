@@ -1,5 +1,5 @@
 # THC ADCI_1
-The [User Manual](https://github.com/phil-barrett/ADCI_1/blob/main/user%20manual.pdf) is now available. Feedback, suggestions or corrections are greatly appreciated.  Please use the discussions section.
+The [User Manual](https://github.com/phil-barrett/ADCI_1/blob/main/ADCI%20Manual.pdf) is now available. Feedback, suggestions or corrections are greatly appreciated.  Please use the discussions section.
 
 
 ![adc_i2c_iso](https://github.com/phil-barrett/ADCI_1/assets/16570958/a7d6b86e-0735-4bbd-a437-44589c8b0586)
