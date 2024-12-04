@@ -1,3 +1,6 @@
+# Product now available to purchase on Tindie
+Dec 4, 2024. Please order [here](https://www.tindie.com/products/philba/isolated-adc/).
+
 # THC ADCI_1
 The [User Manual](https://github.com/phil-barrett/ADCI_1/blob/main/ADCI%20Manual.pdf) is now available. Feedback, suggestions or corrections are greatly appreciated.  Please use the discussions section.
 
